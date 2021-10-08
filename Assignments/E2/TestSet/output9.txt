@@ -1,0 +1,2 @@
+Stringa NON appartenente al linguaggio definito dall'espressione ([a-z] | [0-1])*1
+

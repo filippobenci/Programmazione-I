@@ -1,0 +1,2 @@
+Stringa appartenente al linguaggio definito dall'espressione ([a-z] | [0-1])*1
+Sottostringa '011' presente, posizione/i:     4    9
