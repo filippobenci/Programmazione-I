@@ -1,0 +1,28 @@
+1 - gioco con due giocatori
+2 - gioco con tre giocatori
+3 - esci
+Scelta: Numero segreto: Indovina il numero!
+Tentativo numero 1: Troppo basso
+Tentativo numero 2: Troppo alto
+Tentativo numero 3: Troppo basso
+Tentativo numero 4: Troppo basso
+Tentativo numero 5: Troppo basso
+Tentativo numero 6: Troppo basso
+Tentativo numero 7: Troppo alto
+Ha vinto il banco!
+1 - gioco con due giocatori
+2 - gioco con tre giocatori
+3 - esci
+Scelta: Errore. Opzione non consentita. Scelta: Errore. Opzione non consentita. Scelta: Numero segreto: Indovina il numero!
+Tentativo numero 1: Troppo basso
+Tentativo numero 2: Troppo basso
+Tentativo numero 3: Troppo alto
+Tentativo numero 4: Troppo basso
+Tentativo numero 5: Troppo basso
+Tentativo numero 6: Troppo alto
+Tentativo numero 7: Troppo basso
+Ha vinto il banco!
+1 - gioco con due giocatori
+2 - gioco con tre giocatori
+3 - esci
+Scelta: 

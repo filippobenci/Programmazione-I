@@ -1,0 +1,1 @@
+Errore: l'evento alla riga 6 ha lo stesso codice di quello alla riga 5
