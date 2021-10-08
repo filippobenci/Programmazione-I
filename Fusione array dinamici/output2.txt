@@ -1,0 +1,7 @@
+Array A:
+2 2 2 
+Array B:
+2 2 
+Array risultato C
+2 2 2 2 2 
+Ordinato: 1

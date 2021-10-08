@@ -1,0 +1,7 @@
+Array A:
+
+Array B:
+3 5 8 9 16 
+Array risultato C
+3 5 8 9 16 
+Ordinato: 1

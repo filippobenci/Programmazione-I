@@ -1,0 +1,8 @@
+Inserisci intero positivo o 0 per uscire
+Stampa l'elenco in ordine inverso di immissione (NULL se vuota):
+51->2->6->4->8->4->8->2->NULL 
+Inserisci il numero richiesto:
+Stampa l'elenco in ordine di immissione (NULL se vuota):
+51->NULL 
+Dispari:51
+Pari:-1

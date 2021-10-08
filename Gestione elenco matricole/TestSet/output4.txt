@@ -1,0 +1,7 @@
+Stampa l'elenco in ordine inverso di immissione (NULL se vuota):
+40->30->20->10->NULL 
+Inserisci il numero richiesto:
+Stampa l'elenco in ordine di immissione (NULL se vuota):
+10->20->30->40->NULL 
+Dispari:-1
+Pari:10

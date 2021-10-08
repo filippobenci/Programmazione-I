@@ -1,0 +1,10 @@
+Inserisci intero positivo o 0 per uscire
+Inserisci intero positivo o 0 per uscire
+Inserisci intero positivo o 0 per uscire
+Stampa l'elenco in ordine inverso di immissione (NULL se vuota):
+15->14->13->12->11->10->1->9->8->5->4->3->22->4->2->1->NULL 
+Inserisci il numero richiesto:
+Stampa l'elenco in ordine di immissione (NULL se vuota):
+1->2->22->3->5->9->1->10->11->13->14->15->NULL 
+Dispari:1
+Pari:2
